@@ -1,6 +1,6 @@
-# Wallpaper Selector Script
+# Hyprland wallpaper switcher
 
-The script enables to switch the wallpaper on all connected monitors using rofi and hyprctl.
+The script enables to switch wallpapers in Hyprland using hyprctl and rofi.
 
 ## Usage
 
