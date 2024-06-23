@@ -15,21 +15,21 @@ The script enables to switch the wallpaper on all connected monitors using rofi 
     chmod +x rofi_select_wallpaper.sh
     ```
 3. Ensure you have a directory named `wallpaper` in your home directory and place your wallpaper images there: 
-```bash
-mkdir -p ~/wallpaper 
-``` 
-	Place your images in this directory. 
-```bash
-mv /path/to/your/images/* ~/wallpaper/ 
-```
+    ```bash
+    mkdir -p ~/wallpaper 
+    ``` 
+    Place your images in this directory. 
+    ```bash
+    mv /path/to/your/images/* ~/wallpaper/ 
+    ```
 4. Run the script:
     ```bash
     ./rofi_select_wallpaper.sh
     ```
 5. (Optional) Add Keybinding
-```bash
-bind = $mainMod SHIFT, P, exec, $HOME/.config/rofi/rofi_select_wallpaper.sh
-```
+    ```bash
+    bind = $mainMod SHIFT, P, exec, $HOME/.config/rofi/rofi_select_wallpaper.sh
+    ```
 
 ## Requirements
 #### Rofi 
