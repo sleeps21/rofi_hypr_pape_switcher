@@ -6,7 +6,7 @@ The script enables to switch the wallpaper on all connected monitors using rofi 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rofi_hypr_pape_switcher.git
+    git clone https://github.com/sleeps21/rofi_hypr_pape_switcher.git
     cd rofi_hypr_pape_switcher
     ```
 
